@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - Prints numbers from 1 to 100, with Fizz for multiples of three
+ * Buzz for multiples of five. For numbers that are both, it prints FizzBuzz.
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int i;
